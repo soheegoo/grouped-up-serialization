@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testSaveGroup" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-13T00:34:57" hostname="Jayoungs-MacBook-Pro.local" time="0.057">
+  <properties/>
+  <testcase name="testSaverReadGroup1()" classname="testSaveGroup" time="0.057"/>
+  <system-out><![CDATA[i hate this 1
+i hate this 2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
